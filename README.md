@@ -6,15 +6,15 @@ This Power BI dashboard project aims to analyze mobile phone sales data to gener
 <a href="https://github.com/shantijul4585/Mobile-Sales-Intelligence-Report-PowerBI/blob/main/Mobile%20Sales%20Dashboard%20Using%20PowerBI.pbix">Dataset</a>
 
 ## Process
-● Collected and explored mobile sales data with fields like Transaction ID, Date, Brand, Units Sold, Price Per Unit, Customer Info, City, Ratings, and Payment Method.
-● Imported the dataset into Power BI using Power Query for data transformation.
-● Cleaned and formatted data: removed duplicates, handled nulls, corrected data types, and merged Day, Month, and Year columns into a single Date column.
-● Created calculated columns like “Total Sales” (Units Sold × Price Per Unit).
-● Built DAX measures for Total Sales, Average Sales, Quantity, and Transaction Count.
-● Designed an interactive dashboard with KPIs and various visual charts.
-● Used map visuals for city-wise sales and bar/line charts for trends and model comparison.
-● Added slicers for Brand and Month to make the report dynamic and user-controlled.
-● Analyzed trends in sales, customer behavior, and regional performance.
+- Collected and explored mobile sales data with fields like Transaction ID, Date, Brand, Units Sold, Price Per Unit, Customer Info, City, Ratings, and Payment Method.
+- Imported the dataset into Power BI using Power Query for data transformation.
+- Cleaned and formatted data: removed duplicates, handled nulls, corrected data types, and merged Day, Month, and Year columns into a single Date column.
+- Created calculated columns like “Total Sales” (Units Sold × Price Per Unit).
+- Built DAX measures for Total Sales, Average Sales, Quantity, and Transaction Count.
+- Designed an interactive dashboard with KPIs and various visual charts.
+- Used map visuals for city-wise sales and bar/line charts for trends and model comparison.
+- Added slicers for Brand and Month to make the report dynamic and user-controlled.
+- Analyzed trends in sales, customer behavior, and regional performance.
 
 ## Key Performance Indicators(KPI)
 ● Total Sales Revenue: Sum of Units Sold multiplied by Price Per Unit.
