@@ -17,40 +17,40 @@ This Power BI dashboard project aims to analyze mobile phone sales data to gener
 - Analyzed trends in sales, customer behavior, and regional performance.
 
 ## Key Performance Indicators(KPI)
-● Total Sales Revenue: Sum of Units Sold multiplied by Price Per Unit.
-● Total Units Sold: Total quantity of mobile phones sold.
-● Number of Transactions: Count of unique Transaction IDs.
-● Average Sales per Transaction: Total Sales Revenue divided by Number of Transactions.
-● Top Performing Brand: Brand with the highest sales revenue or units sold.
-● Best Selling Mobile Model: Mobile Model with the highest units sold or revenue.
-● Average Customer Rating: Mean of all Customer Ratings.
-● Sales by City: Total sales revenue segmented by city.
-● Sales Trend by Month/Day: Sales patterns showing peak periods.
-● Payment Method Distribution: Percentage share of each payment method.
+- Total Sales Revenue: Sum of Units Sold multiplied by Price Per Unit.
+- Total Units Sold: Total quantity of mobile phones sold.
+- Number of Transactions: Count of unique Transaction IDs.
+- Average Sales per Transaction: Total Sales Revenue divided by Number of Transactions.
+- Top Performing Brand: Brand with the highest sales revenue or units sold.
+- Best Selling Mobile Model: Mobile Model with the highest units sold or revenue.
+- Average Customer Rating: Mean of all Customer Ratings.
+- Sales by City: Total sales revenue segmented by city.
+- Sales Trend by Month/Day: Sales patterns showing peak periods.
+- Payment Method Distribution: Percentage share of each payment method.
 
 ## Features
-● Interactive dashboard with slicers for filtering by Brand and Month.
-● Visualizations including maps for city-wise sales distribution.
-● Trend analysis charts showing sales by day of week and month.
-● KPI cards displaying total sales, units sold, transactions, and average sales.
-● Bar and line charts comparing brand and mobile model performance.
-● Customer insights with ratings and payment method breakdowns.
-● Data cleaning and transformation using Power Query for accuracy.
-● DAX measures for dynamic calculations and aggregations.
-● Exportable visuals suitable for presentations and reporting.
-● Responsive design for easy exploration of sales data.
+- Interactive dashboard with slicers for filtering by Brand and Month.
+- Visualizations including maps for city-wise sales distribution.
+- Trend analysis charts showing sales by day of week and month.
+- KPI cards displaying total sales, units sold, transactions, and average sales.
+- Bar and line charts comparing brand and mobile model performance.
+- Customer insights with ratings and payment method breakdowns.
+- Data cleaning and transformation using Power Query for accuracy.
+- DAX measures for dynamic calculations and aggregations.
+- Exportable visuals suitable for presentations and reporting.
+- Responsive design for easy exploration of sales data.
 
 ## Dashboard View
 ![Mobile Sales Dashboard](https://github.com/user-attachments/assets/33ab8193-37fb-4c88-853c-74f9e61087c5)
 
 ## Project Insights
-● The top-performing brands consistently generate the highest sales revenue and units sold, indicating strong market preference.
-● Mobile models from leading brands show significant variation in sales, helping identify popular and underperforming models.
-● Sales peak during certain months and specific days of the week, highlighting key periods for marketing and promotions.
-● Cities with the highest sales concentration reveal target regions for focused inventory and sales strategies.
-● Customer ratings correlate with sales volume, suggesting customer satisfaction impacts repeat purchases.
-● Payment methods vary by customer segment, offering insights into preferred transaction types for different demographics.
-● Interactive filters allow stakeholders to drill down into data, improving decision-making based on brand and time period.
+- The top-performing brands consistently generate the highest sales revenue and units sold, indicating strong market preference.
+- Mobile models from leading brands show significant variation in sales, helping identify popular and underperforming models.
+- Sales peak during certain months and specific days of the week, highlighting key periods for marketing and promotions.
+- Cities with the highest sales concentration reveal target regions for focused inventory and sales strategies.
+- Customer ratings correlate with sales volume, suggesting customer satisfaction impacts repeat purchases.
+- Payment methods vary by customer segment, offering insights into preferred transaction types for different demographics.
+- Interactive filters allow stakeholders to drill down into data, improving decision-making based on brand and time period.
 
 ## Final Conclusion
 The analysis of the mobile sales data using Power BI has provided valuable insights into sales performance, customer behavior, and market trends. The dashboard effectively highlights top-performing brands and models, key sales periods, and strong geographic markets. Customer ratings and payment method preferences offer additional layers of understanding for tailored marketing strategies. Overall, this dynamic and interactive dashboard serves as a powerful decision-support tool, enabling businesses to optimize sales strategies, improve customer engagement, and enhance operational planning for sustained growth.
